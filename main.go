@@ -284,4 +284,7 @@ func main() {
 	}
 	fmt.Printf("\n==========================================\n")
 
+	fmt.Println("Press enter to close")
+	fmt.Scanln()
+
 }
